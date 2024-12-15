@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/06 Массивы и списки Array, ArrayList, знакомство с Generics.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/06 Массивы и списки Array, ArrayList, знакомство с Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/07 Коллекции LinkedList, HashSet, HashMap. Date - дата.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/07 Коллекции LinkedList, HashSet, HashMap. Date - дата.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jcf.iml" filepath="$PROJECT_DIR$/.idea/jcf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0701/task0701.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0701/task0701.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0702/task0702.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0702/task0702.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0703/task0703.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0703/task0703.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0706/task0706.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0706/task0706.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0707/task0707.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0707/task0707.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0708/task0708.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0708/task0708.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0711/task0711.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0711/task0711.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0712/task0712.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0712/task0712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0713/task0713.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0713/task0713.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0716/task0716.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0716/task0716.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0718/task0718.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0718/task0718.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0720/task0720.iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0720/task0720.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0724(OOP)/task0724(OOP).iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0724(OOP)/task0724(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0726(OOP)/task0726(OOP).iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0726(OOP)/task0726(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0727(refactor)/task0727(refactor).iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0727(refactor)/task0727(refactor).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0728(sort)/task0728(sort).iml" filepath="$PROJECT_DIR$/06 Массивы и списки Array, ArrayList, знакомство с Generics/task0728(sort)/task0728(sort).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0801/task0801.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0801/task0801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0803/task0803.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0803/task0803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0805/task0805.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0805/task0805.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0806/task0806.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0806/task0806.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0807/task0807.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0807/task0807.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0808/task0808.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0808/task0808.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0809/task0809.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0809/task0809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0812(alg)/task0812(alg).iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0812(alg)/task0812(alg).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0815/task0815.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0815/task0815.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0817/task0817.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0817/task0817.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0819/task0819.iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0819/task0819.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0820(OOP_alg)/task0820(OOP_alg).iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0820(OOP_alg)/task0820(OOP_alg).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0827(data)/task0827(data).iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0827(data)/task0827(data).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0828(data)/task0828(data).iml" filepath="$PROJECT_DIR$/07 Коллекции LinkedList, HashSet, HashMap. Date - дата/task0828(data)/task0828(data).iml" />
+    </modules>
+  </component>
+</project>

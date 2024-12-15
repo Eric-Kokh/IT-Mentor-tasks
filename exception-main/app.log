@@ -1,0 +1,8 @@
+нояб. 16, 2024 12:03:13 PM Main main
+INFO: Вызов метода dangerousMethod начался
+нояб. 16, 2024 12:03:13 PM Main main
+WARNING: Ошибка при вызове dangerousMethod
+java.io.IOException: Ошибка: что-то пошло не так!
+	at Main.dangerousMethod(Main.java:32)
+	at Main.main(Main.java:24)
+
